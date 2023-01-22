@@ -1,0 +1,23 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp2201
+{
+    Class Program
+    {
+        
+        int = num
+		Console.WriteLine("Type ONE number");
+		num = int.Parse(Console.ReadLine());
+		if (num%2==0);
+			Console.WriteLine("Even number");
+		else
+			Console.WriteLine("odd");
+		
+           
+        }
+    }
+}
