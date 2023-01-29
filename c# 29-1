@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp2901
+{
+    Class Program
+    {
+        Console.Write("INPUT A 2 DIGIT NUMBER");
+        int num = int.Parse(Console.ReadLine());
+        if (num/10 == 0);
+            Console.WriteLine("THIS IS A 1 DIGIT NUMBER");
+        if (num %10== 1);
+            Console.WriteLine("THIS IS A 2 DIGIT NUMBER");
+        if (num %10 == 2);
+            Console.WriteLine("OOPS! THIS IS A 3 DIGIT NUMBER, TRY AGAIN");
+        
+       
+		
+           
+        }
+    }
+}
